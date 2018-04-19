@@ -11,3 +11,11 @@ Pathfinder Adventures translates the best-selling Pathfinder Adventure Card Game
 [Itunes](https://itunes.apple.com/us/app/pathfinder-adventures/id966333863?mt=8)
 
 [Steam PC and Mac](http://store.steampowered.com/app/480640/Pathfinder_Adventures/)
+
+## Description of Work
+
+Integrating the game's online precence.
+
+Playfab
+
+In game purchases

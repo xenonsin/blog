@@ -1,6 +1,6 @@
 ---
 title: "Pillars of Eternity II : Deadfire"
-date: 2018-05-08T00:19:44-07:00
+date: 2018-04-13T00:19:44-07:00
 ---
 
 ![Pillars 2](/images/pillars2.jpg)

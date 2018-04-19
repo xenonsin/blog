@@ -23,7 +23,7 @@ defaultContentLanguage = "en"
 	# Site meta description
 	description = "Keno's personal website and blog."
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Hype driven development."
+	tagline = "Buzzword driven development."
 	# If true give attribution to this theme
 	themeAttrib = false
 	# URL to license file, can be outside of your domain
@@ -56,6 +56,7 @@ defaultContentLanguage = "en"
 	email = "keno.sanpablo@gmail.com"
 	github = "https://github.com/xenonsin"
 	twitter = "https://twitter.com/KISanPablo"
+	linkedin = "https://www.linkedin.com/in/keno-san-pablo-3870a0148/"
 
 
 # Language Configuration
